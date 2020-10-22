@@ -5,8 +5,8 @@
 I'm Ramana, currently a sophomore year student pursuing Computer Engineering and University's Scholars Programme at National University of Singapore (NUS).
 
 👓 I'm interested in machine learning/artificial intelligence, green tech and med tech <br>
-🔭 I’m currently working on Duke, a CLI Software Engineering Project <br>
-🌱 I’m currently learning Real-Time Operating Systems <br>
+🔭 I’m currently working on [NotUS, a CLI Software Engineering Project](https://github.com/AY2021S1-CS2113-T13-1/tp) <br>
+🌱 I’m currently learning [Real-Time Operating Systems](https://github.com/R-Ramana/CG2271) <br>
 📫 I can be contacted via [my webpage!](http://r-ramana.github.io/)
 
 ### Past Projects
