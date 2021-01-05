@@ -6,6 +6,8 @@ I'm Ramana, currently a sophomore year student pursuing Computer Engineering and
 
 👓 I'm interested in machine learning/artificial intelligence, green tech and med tech <br>
 
+👓 I'm comfortable with front-end web development <br>
+
 <!--🔭 I’m currently working on [, ]() <br>
 🌱 I’m currently learning [ <br>-->
 📫 I can be contacted via [my webpage!](http://r-ramana.github.io/)
