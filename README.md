@@ -5,8 +5,9 @@
 I'm Ramana, currently a sophomore year student pursuing Computer Engineering and University's Scholars Programme at National University of Singapore (NUS).
 
 👓 I'm interested in machine learning/artificial intelligence, green tech and med tech <br>
-🔭 I’m currently working on [NotUS, a CLI Software Engineering Project](https://github.com/AY2021S1-CS2113-T13-1/tp) <br>
-🌱 I’m currently learning [Real-Time Operating Systems](https://github.com/R-Ramana/CG2271) <br>
+
+<!--🔭 I’m currently working on [, ]() <br>
+🌱 I’m currently learning [ <br>-->
 📫 I can be contacted via [my webpage!](http://r-ramana.github.io/)
 
 ### Past Projects
@@ -14,8 +15,10 @@ I'm Ramana, currently a sophomore year student pursuing Computer Engineering and
 
       From a total of 383 projects, Knewbie was 1 of 6 projects selected by the School of Computing (SoC) communication office, National University of Singapore (NUS) and was [featured on the various social media accounts](https://www.linkedin.com/feed/update/urn:li:activity:6703488818370215936/).
 2. <b>[Sound Design & Entertainment System](https://github.com/R-Ramana/EE2026-FPGA-Project)</b> - Built using Verilog, Digilent Basys 3 Board, Pmod OLEDrgb 96 x 64 RGB OLED Display, Pmod MIC3. 
-3. <b>[Alex](https://github.com/R-Ramana/Alex)</b> - Search and Rescue robot with remote navigation built using Raspberry Pi, Arduino and LiDAR.
-4. <b>[mBot](https://github.com/R-Ramana/mBot-A-Maze-ing-Race)</b> - A robot calibrated to traverse a maze by responding to audiovisual cues.
+3. <b>[NotUS](https://github.com/AY2021S1-CS2113-T13-1/tp)</b> - Coded in Java, NotUS is a quick and simple, CLI-based, note-taking application for keyboard-inclined users. NotUS can also assist in planning timetables to highlight possible clashes.
+4. <b>[Alex](https://github.com/R-Ramana/Alex)</b> - Search and Rescue robot with remote navigation built using Raspberry Pi, Arduino and LiDAR.
+5. <b>[Real-Time Operating Systems](https://github.com/R-Ramana/CG2271)</b> - A remote control robot controlled using an android application via Bluetooth.
+6. <b>[mBot](https://github.com/R-Ramana/mBot-A-Maze-ing-Race)</b> - A robot calibrated to traverse a maze by responding to audiovisual cues.
 
 
 ### Contribution Statistics
