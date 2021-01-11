@@ -26,8 +26,8 @@ I'm Ramana, currently a sophomore year student pursuing Computer Engineering and
 
 
 ### Contribution Statistics
-[![Ramana's Github Stats](https://github-readme-stats.vercel.app/api?username=r-ramana&count_private=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-[![Ramana's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-ramana&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Ramana's Github Stats](https://github-readme-stats.vercel.app/api?username=r-ramana&count_private=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Ramana's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-ramana&layout=compact&langs_count=10&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **R-Ramana/R-Ramana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
