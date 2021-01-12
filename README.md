@@ -4,7 +4,7 @@
 
 I'm Ramana, currently a sophomore year student pursuing Computer Engineering and University's Scholars Programme at National University of Singapore (NUS).
 
-👓 I'm interested in web development, machine learning/artificial intelligence, green tech and med tech <br>
+👓 I'm interested in web development, Machine Learning/Artificial Intelligence, and Green Tech <br>
 
 🌱 I’m currently learning about Signals & Systems, Transistor-Level Digital Circuits, Computer Organization, Design & Analysis of Algorithms, Machine Learning, and Computer Networks
 
