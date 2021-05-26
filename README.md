@@ -6,7 +6,7 @@ I'm Ramana, currently a sophomore year student pursuing Computer Engineering and
 
 👓 I'm interested in web development, Machine Learning/Artificial Intelligence, and Green Tech <br>
 
-🌱 I’m currently learning about Signals & Systems, Transistor-Level Digital Circuits, Computer Organization, Design & Analysis of Algorithms, Machine Learning, and Computer Networks
+<!-- 🌱 I’m currently learning about Signals & Systems, Transistor-Level Digital Circuits, Computer Organization, Design & Analysis of Algorithms, Machine Learning, and Computer Networks -->
 
 👯 I’m looking to collaborate on Software Development projects <br>
 
