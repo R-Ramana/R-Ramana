@@ -43,9 +43,7 @@ I'm Ramana, a penultimate year student pursuing Computer Engineering & Universit
     </a>
 </p>
 <br>
-
 <h2 align="center">Work Experience</h3>
-<br>
 <p align="center">
     <a href="https://www.linkedin.com/in/ramana-r/">
         <img src="https://img.shields.io/badge/Government_Data_Office-darkred?labelColor=000000&style=for-the-badge" />
