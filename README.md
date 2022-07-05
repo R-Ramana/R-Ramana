@@ -46,7 +46,7 @@ I'm Ramana, a penultimate year student pursuing Computer Engineering & Universit
 <h2 align="center">Work Experience</h3>
 <p align="center">
     <a href="https://www.linkedin.com/in/ramana-r/">
-        <img src="https://img.shields.io/badge/Government_Data_Office-darkred?labelColor=000000&style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Government_Data_Office-darkred?labelColor=000000&style=for-the-badge" /> &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/badge/Sweden_Foodtech-critical?labelColor=000000&style=for-the-badge" />
           <br><br>
         <img src="https://img.shields.io/badge/Singapore_Airlines_Engineering_Company-darkblue?labelColor=007DB8&style=for-the-badge" />
     </a>
