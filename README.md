@@ -14,13 +14,13 @@ I'm Ramana, a penultimate year student pursuing Computer Engineering & Universit
             <img src="https://img.shields.io/badge/portfolio-white?&style=for-the-badge&logo=slickpic&logoColor=black">
       </a>
       &nbsp; &nbsp; &nbsp;
-      <a href="https://r-ramana.github.io/#contact">
+    <!--  <a href="https://r-ramana.github.io/#contact">
             <img src="https://img.shields.io/badge/contact_me-8D3316?style=for-the-badge&logo=minutemailer&logoColor=white" />
       </a>
       &nbsp; &nbsp; &nbsp;
       <a href="https://r-ramana.github.io/#contact">
             <img src="https://img.shields.io/badge/resume-white?style=for-the-badge&logo=files&logoColor=black" />
-      </a>
+      </a> -->
 </div>
 <br>
 <h2 align="center">Selected Projects</h3>
