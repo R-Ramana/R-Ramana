@@ -2,7 +2,7 @@
 <h1 align="center">Hello from the other side!</h1>
 
 <p align="center">
-I'm Ramana, a penultimate year student pursuing Computer Engineering & University's Scholars Programme at National University of Singapore (NUS). I'm interested in UI/UX Research, Web Development, Machine Learning/Artificial Intelligence, & Green Tech!
+I'm Ramana, a final year student pursuing Computer Engineering, specializing in Internet of Things [IoT] & University's Scholars Programme at National University of Singapore (NUS). I'm interested in UI/UX Research, Web Development, Machine Learning/Artificial Intelligence, & Green Tech!
 </p>
 <br>
 <div align="center">
@@ -38,7 +38,7 @@ I'm Ramana, a penultimate year student pursuing Computer Engineering & Universit
 </p>
 <br>
 <p align="center">
-    <a href="https://r-ramana.github.io/#project">
+    <a href="https://r-ramana.github.io/">
         <img src="https://img.shields.io/badge/view_more-white?&style=for-the-badge&logo=bmcsoftware&logoColor=black" />
     </a>
 </p>
