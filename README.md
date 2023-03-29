@@ -2,7 +2,7 @@
 <h1 align="center">Hello from the other side!</h1>
 
 <p align="center">
-I'm Ramana, a final year student pursuing Computer Engineering, specializing in Internet of Things [IoT] & University's Scholars Programme at National University of Singapore (NUS). I'm interested in UI/UX Research, Web Development, Machine Learning/Artificial Intelligence, & Green Tech!
+I'm Ramana, a final year student pursuing Computer Engineering, specializing in Internet of Things [IoT] & University's Scholars Programme at National University of Singapore (NUS). I'm interested in UI/UX Research, Web Development, Artificial Intelligence, & Smart Things!
 </p>
 <br>
 <div align="center">
@@ -23,18 +23,34 @@ I'm Ramana, a final year student pursuing Computer Engineering, specializing in 
       </a> -->
 </div>
 <br>
+<h2 align="center">Ongoing Project(s)</h3>
+<br>
+<ul>
+      <li>Fencing Moves Detection with <a href="https://www.comp.nus.edu.sg/cs/people/boyd/" target="_blank">Boyd Anderson</a> and <a href="https://www.sportsingapore.gov.sg/athletes-coaches/singapore-sport-institute" target="_blank">SSI</a></li>
+      <li>Delay Tolerant Networks</li>
+      <li>Hardware Accelerator for Neural Networks</li>
+</ul>
 <h2 align="center">Selected Projects</h3>
 <br>
 <p align="center">
-    <a href="https://github.com/Orbital-Knewbie/Knewbie">
-        <img src="https://img.shields.io/badge/Knewbie-202020?labelColor=000000&style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="https://github.com/R-Ramana/EE2026-FPGA-Project">
-        <img src="https://img.shields.io/badge/FPGA-202020?labelColor=000000&style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="https://github.com/AY2021S1-CS2113-T13-1/tp">
-        <img src="https://img.shields.io/badge/Notus-202020?labelColor=000000&style=for-the-badge&logo=github&logoColor=white" />
-    </a>
+      <a href="https://github.com/project-beyond-vision">
+            <img src="https://img.shields.io/badge/BeyondVision-202020?labelColor=000000&style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <a href="https://github.com/CG4002-B3/hardware">
+            <img src="https://img.shields.io/badge/LaserTag++-202020?labelColor=000000&style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <a href="https://github.com/Orbital-Knewbie/Knewbie">
+            <img src="https://img.shields.io/badge/Knewbie-202020?labelColor=000000&style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <a href="https://github.com/R-Ramana/EE4211-Project/tree/main">
+            <img src="https://img.shields.io/badge/Carpark%20Data%20Analysis-202020?labelColor=000000&style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <a href="https://github.com/R-Ramana/EE2026-FPGA-Project">
+            <img src="https://img.shields.io/badge/FPGA%20Entertainment%20System-202020?labelColor=000000&style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <a href="https://github.com/R-Ramana/CG2271">
+            <img src="https://img.shields.io/badge/RTOS-202020?labelColor=000000&style=for-the-badge&logo=github&logoColor=white" />
+      </a>
 </p>
 <br>
 <p align="center">
@@ -42,7 +58,6 @@ I'm Ramana, a final year student pursuing Computer Engineering, specializing in 
         <img src="https://img.shields.io/badge/view_more-white?&style=for-the-badge&logo=bmcsoftware&logoColor=black" />
     </a>
 </p>
-<br>
 <h2 align="center">Work Experience</h3>
 <p align="center">
     <a href="https://www.linkedin.com/in/ramana-r/">
@@ -51,11 +66,6 @@ I'm Ramana, a final year student pursuing Computer Engineering, specializing in 
         <img src="https://img.shields.io/badge/Singapore_Airlines_Engineering_Company-darkblue?labelColor=007DB8&style=for-the-badge" />
     </a>
 </p>
-
-
-
-
-
 
 <!-- 
 ### Selected Past Projects
