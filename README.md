@@ -27,8 +27,6 @@ I'm Ramana, a final year student pursuing Computer Engineering, specializing in 
 <br>
 <ul>
       <li>Fencing Moves Detection with <a href="https://www.comp.nus.edu.sg/cs/people/boyd/" target="_blank">Boyd Anderson</a> and <a href="https://www.sportsingapore.gov.sg/athletes-coaches/singapore-sport-institute" target="_blank">SSI</a></li>
-      <li>Delay Tolerant Networks</li>
-      <li>Hardware Accelerator for Neural Networks</li>
 </ul>
 <h2 align="center">Selected Projects</h3>
 <br>
