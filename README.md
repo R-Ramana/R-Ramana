@@ -2,7 +2,7 @@
 <h1 align="center">Hello from the other side!</h1>
 
 <p align="center">
-I'm Ramana, a final year student pursuing Computer Engineering, specializing in Internet of Things [IoT] & University's Scholars Programme at National University of Singapore (NUS). I'm interested in UI/UX Research, Web Development, Artificial Intelligence, & Smart Things!
+I'm Ramana, graduated from National University of Singapore (NUS) with a major in Computer Engineering, specializing in Internet of Things [IoT] & University's Scholars Programme. I'm interested in UI/UX Research, Web Development, Artificial Intelligence, & Smart Things!
 </p>
 <br>
 <div align="center">
@@ -22,12 +22,12 @@ I'm Ramana, a final year student pursuing Computer Engineering, specializing in 
             <img src="https://img.shields.io/badge/resume-white?style=for-the-badge&logo=files&logoColor=black" />
       </a> -->
 </div>
-<br>
-<h2 align="center">Ongoing Project(s)</h3>
+<!-- <br> -->
+<!-- <h2 align="center">Ongoing Project(s)</h3>
 <br>
 <ul>
       <li>Fencing Moves Detection with <a href="https://www.comp.nus.edu.sg/cs/people/boyd/" target="_blank">Boyd Anderson</a> and <a href="https://www.sportsingapore.gov.sg/athletes-coaches/singapore-sport-institute" target="_blank">SSI</a></li>
-</ul>
+</ul> -->
 <h2 align="center">Selected Projects</h3>
 <br>
 <p align="center">
