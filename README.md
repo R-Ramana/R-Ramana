@@ -2,7 +2,7 @@
 <h1 align="center">Hello from the other side!</h1>
 
 <p align="center">
-I'm Ramana, graduated from National University of Singapore (NUS) with a major in Computer Engineering, specializing in Internet of Things [IoT] & University's Scholars Programme. I'm interested in UI/UX Research, Web Development, Artificial Intelligence, & Smart Things!
+I'm Ramana, a graduate from National University of Singapore (NUS) with a major in Computer Engineering, specializing in Internet of Things [IoT] & University's Scholars Programme. I thrive on solving complex challenges, with a strong passion for IoT, AI, HCI, and a love for automating routine tasks.
 </p>
 <br>
 <div align="center">
@@ -43,6 +43,9 @@ I'm Ramana, graduated from National University of Singapore (NUS) with a major i
       <a href="https://github.com/R-Ramana/EE4211-Project/tree/main">
             <img src="https://img.shields.io/badge/Carpark%20Data%20Analysis-202020?labelColor=000000&style=for-the-badge&logo=github&logoColor=white" />
       </a>
+      <a href="https://github.com/R-Ramana/EE4211-Project/tree/main">
+            <img src="https://img.shields.io/badge/Notus-202020?labelColor=000000&style=for-the-badge&logo=github&logoColor=white" />
+      </a>
       <a href="https://github.com/R-Ramana/EE2026-FPGA-Project">
             <img src="https://img.shields.io/badge/FPGA%20Entertainment%20System-202020?labelColor=000000&style=for-the-badge&logo=github&logoColor=white" />
       </a>
@@ -50,19 +53,13 @@ I'm Ramana, graduated from National University of Singapore (NUS) with a major i
             <img src="https://img.shields.io/badge/RTOS-202020?labelColor=000000&style=for-the-badge&logo=github&logoColor=white" />
       </a>
 </p>
-<br>
-<p align="center">
-    <a href="https://r-ramana.github.io/">
-        <img src="https://img.shields.io/badge/view_more-white?&style=for-the-badge&logo=bmcsoftware&logoColor=black" />
-    </a>
-</p>
 <h2 align="center">Work Experience</h3>
 <p align="center">
     <a href="https://www.linkedin.com/in/ramana-r/">
-        <img src="https://img.shields.io/badge/Government_Data_Office-darkred?labelColor=000000&style=for-the-badge" /> &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/badge/Sweden_Foodtech-critical?labelColor=000000&style=for-the-badge" />
+          <img src="https://img.shields.io/badge/DBS-darkred?labelColor=000000&style=for-the-badge" /> &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/badge/Singapore_Airlines_Engineering_Company-darkblue?labelColor=007DB8&style=for-the-badge" />
           <br><br>
-        <img src="https://img.shields.io/badge/Singapore_Airlines_Engineering_Company-darkblue?labelColor=007DB8&style=for-the-badge" />
-    </a>
+        <img src="https://img.shields.io/badge/Sweden_Foodtech-critical?labelColor=000000&style=for-the-badge" /> &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/badge/Government_Data_Office-darkred?labelColor=000000&style=for-the-badge" />
+      </a>
 </p>
 
 <!-- 
